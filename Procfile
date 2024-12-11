@@ -1,1 +1,1 @@
-gunicorn techNova.wsgi:application
+gunicorn techNova.wsgi
